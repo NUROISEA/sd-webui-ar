@@ -1,0 +1,7 @@
+Square, 512, 512
+Portrait, 512, 768
+Landscape, 768, 512
+Medium Square, 768, 768
+Large Square, 1024, 1024
+Large Portrait, 512, 1024
+Large Landscape, 1024, 512
