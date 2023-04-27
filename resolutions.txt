@@ -1,0 +1,4 @@
+Portrait, 512, 768
+Landscape, 768, 512
+Portrait+, 512, 1024
+Landscape+, 1024, 512
